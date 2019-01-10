@@ -13,3 +13,16 @@ img{
     height:100%;
     object-fit: cover;
 }
+#targetScore{
+    font-size: 30px;
+    color: black;
+}
+#gameStatMsg, #winScore, #loseScore, #gameScore{
+    font-size: 20px;
+}
+#gameStatMsg{
+    color: red;
+}
+#userScore{
+    font-size: 30px;
+}
